@@ -1,5 +1,5 @@
 {
-    "name": "suin/phpcs-psr4-sniff",
+    "name": "vesper/phpcs-psr4-sniff",
     "type": "phpcodesniffer-standard",
     "description": "PHP_CodeSniffer sniff that checks class name matches PSR-4 project structure.",
     "keywords": [
